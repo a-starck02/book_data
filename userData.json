@@ -20,7 +20,7 @@
 		"phone" : "(11) 98752-0005",
 		"email" : "a.starck@gmail.com",
 		"password" : "senha123",
-		"profilePic" : "https://i.picsum.photos/id/121/200/200.jpg?hmac=0aiR--xgWy1aIM85HCFMySsuQ7DJJBE6XW_Yv4nqU6s",
+		"profilePic" : "https://picsum.photos/200",
 		"ownedBooks" : [16, 17, 18],
 		"wishlist" : [21, 13],
 		"friends" : ["kaena_caldas", "j_takashi"],
